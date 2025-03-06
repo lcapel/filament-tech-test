@@ -1,0 +1,252 @@
+[
+  {
+    "id": "1",
+    "name": "Cloud Systems AB",
+    "website": "https://www.cloudsystems.se"
+  },
+  {
+    "id": "2",
+    "name": "Smart Analytics Oy",
+    "website": "https://smartanalytics.fi"
+  },
+  {
+    "id": "3",
+    "name": "DataDrive Analytics GmbH",
+    "website": "https://www.newdatadrive.com"
+  },
+  {
+    "id": "4",
+    "name": "Digital Solutions Oy",
+    "website": "https://digitalsolutions.fi"
+  },
+  {
+    "id": "5",
+    "name": "Future Systems BV",
+    "website": "https://www.futuresys.nl"
+  },
+  {
+    "id": "6",
+    "name": "CloudSync AB",
+    "website": "https://cloudsync.se"
+  },
+  {
+    "id": "7",
+    "name": "Tech Dynamics GmbH",
+    "website": "https://www.techdynamics.de"
+  },
+  {
+    "id": "8",
+    "name": "DataFlow Analytics Limited",
+    "website": "https://dataflow.com"
+  },
+  {
+    "id": "9",
+    "name": "Smart Technologies GmbH",
+    "website": "https://www.smarttech.de"
+  },
+  {
+    "id": "10",
+    "name": "Cloud Matrix Ltd",
+    "website": "https://cloudmatrix.io"
+  },
+  {
+    "id": "11",
+    "name": "Innovation Labs BV",
+    "website": "https://www.innovationlabs.nl"
+  },
+  {
+    "id": "12",
+    "name": "Nordic AI Solutions AB",
+    "website": "https://nordicai-new.com"
+  },
+  {
+    "id": "13",
+    "name": "Data Systems SAS",
+    "website": "https://www.datasystems.fr"
+  },
+  {
+    "id": "14",
+    "name": "Quantum Computing Labs",
+    "website": "https://quantumcomp.io"
+  },
+  {
+    "id": "15",
+    "name": "New Cloud Tech",
+    "website": "https://www.cloudscale.fr"
+  },
+  {
+    "id": "16",
+    "name": "Tech Solutions Plus",
+    "website": "https://greentech.nl"
+  },
+  {
+    "id": "17",
+    "name": "Binary Solutions GmbH",
+    "website": "https://www.binary-solutions.de"
+  },
+  {
+    "id": "18",
+    "name": "Cloud Analytics AB",
+    "website": "https://cloudanalytics.se"
+  },
+  {
+    "id": "19",
+    "name": "Digital Systems Inc",
+    "website": "https://www.innovatetech.nl"
+  },
+  {
+    "id": "20",
+    "name": "Filament Consultancy Group Limited",
+    "website": "https://filament.ai"
+  },
+  {
+    "id": "21",
+    "name": "Future Analytics",
+    "website": "https://datasense.fi"
+  },
+  {
+    "id": "22",
+    "name": "AI Systems AB",
+    "website": "https://aisystems.se"
+  },
+  {
+    "id": "23",
+    "name": "TechVision Solutions Ltd",
+    "website": "https://techvision.co.uk"
+  },
+  {
+    "id": "24",
+    "name": "Data Solutions SAS",
+    "website": "https://datasolutions.fr"
+  },
+  {
+    "id": "25",
+    "name": "Quantum Data Labs Limited",
+    "website": "https://quantum-labs.com"
+  },
+  {
+    "id": "26",
+    "name": "CyberGuard Systems Limited",
+    "website": "https://cyberguard-secure.com"
+  },
+  {
+    "id": "27",
+    "name": "New Factory Solutions",
+    "website": "https://smartfactory.de"
+  },
+  {
+    "id": "28",
+    "name": "Tech Solutions BV",
+    "website": "https://techsolutions.nl"
+  },
+  {
+    "id": "29",
+    "name": "AeroSpace Dynamics SAS",
+    "website": "https://aero-dynamics.com"
+  },
+  {
+    "id": "30",
+    "name": "Digital Dynamics SAS",
+    "website": "https://digitaldynamics.fr"
+  },
+  {
+    "id": "31",
+    "name": "RoboTech Innovations AB",
+    "website": "https://robotech.se"
+  },
+  {
+    "id": "32",
+    "name": "Nordic Data AB",
+    "website": "https://nordicdata.se"
+  },
+  {
+    "id": "33",
+    "name": "QuantumLogic Systems GmbH",
+    "website": "https://quantum-logic.com"
+  },
+  {
+    "id": "34",
+    "name": "Cloud Innovations Ltd",
+    "website": "https://cloudinnovate.io"
+  },
+  {
+    "id": "35",
+    "name": "New Neural Networks",
+    "website": "https://neuratech.fr"
+  },
+  {
+    "id": "36",
+    "name": "Future Technologies Oy",
+    "website": "https://futuretech.fi"
+  },
+  {
+    "id": "37",
+    "name": "FutureScale Analytics Ltd",
+    "website": "https://futurescale.ai"
+  },
+  {
+    "id": "38",
+    "name": "Cyber Solutions Ltd",
+    "website": "https://cybersolutions.io"
+  },
+  {
+    "id": "39",
+    "name": "Grid Solutions International",
+    "website": "https://smartgrid.se"
+  },
+  {
+    "id": "40",
+    "name": "Smart Systems GmbH",
+    "website": "https://smartsystems.de"
+  },
+  {
+    "id": "41",
+    "name": "CloudTech Solutions Oy",
+    "website": "https://cloudtech.fi"
+  },
+  {
+    "id": "42",
+    "name": "Data Dynamics SAS",
+    "website": "https://datadynamics.fr"
+  },
+  {
+    "id": "43",
+    "name": "AI Innovations Ltd",
+    "website": "https://innovateai.io"
+  },
+  {
+    "id": "44",
+    "name": "Nexus Technologies Ltd",
+    "website": "https://nexustech.io"
+  },
+  {
+    "id": "45",
+    "name": "DataCore Systems GmbH",
+    "website": "https://datacore.de"
+  },
+  {
+    "id": "46",
+    "name": "Vision Technologies",
+    "website": "https://techvision.fr"
+  },
+  {
+    "id": "47",
+    "name": "SmartLogic BV",
+    "website": "https://smartlogic.nl"
+  },
+  {
+    "id": "48",
+    "name": "AI Dynamics Ltd",
+    "website": "https://aidynamics.io"
+  },
+  {
+    "id": "49",
+    "name": "Tech Innovations BV",
+    "website": "https://techinnovations.nl"
+  },
+  {
+    "id": "50",
+    "name": "Digital Analytics Oy",
+    "website": "https://digitalanalytics.fi"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "name": "DataDrive Analytics GmbH",
+    "providerId": "89123456",
+    "addresses": {
+      "lineOne": "Innovationspark 42",
+      "lineTwo": "Gebäude B",
+      "city": "Munich",
+      "postalCode": "80339"
+    },
+    "financials": []
+  },
+  {
+    "name": "CloudSync AB",
+    "providerId": "SE345678",
+    "addresses": {
+      "lineOne": "Cloud Center",
+      "lineTwo": "Uppsala Science Park",
+      "city": "Uppsala",
+      "postalCode": "752 37"
+    },
+    "financials": []
+  },
+  {
+    "name": "DataFlow Analytics Limited",
+    "providerId": "IE678901",
+    "addresses": {
+      "lineOne": "Block B, Silicon Docks",
+      "lineTwo": "Grand Canal Quay",
+      "city": "Dublin",
+      "postalCode": "D02 HP83"
+    },
+    "financials": []
+  },
+  {
+    "name": "Nordic AI Solutions AB",
+    "providerId": "SE789012",
+    "addresses": {
+      "lineOne": "Teknikringen 7",
+      "lineTwo": "Science Park",
+      "city": "Stockholm",
+      "postalCode": "114 28"
+    },
+    "financials": []
+  },
+  {
+    "name": "Filament Consultancy Group Limited",
+    "providerId": "23092697",
+    "addresses": {
+      "lineOne": "Unit 4, Innovation Centre",
+      "lineTwo": "15 Technology Road",
+      "city": "London",
+      "postalCode": "EC2A 4BQ"
+    },
+    "financials": []
+  },
+  {
+    "name": "DataSense Oy",
+    "providerId": "FI234567",
+    "addresses": {
+      "lineOne": "Technopolis, Building 3",
+      "lineTwo": "Vaisalantie 4",
+      "city": "Helsinki",
+      "postalCode": "00210"
+    },
+    "financials": []
+  },
+  {
+    "name": "TechVision Solutions Ltd",
+    "providerId": "45781234",
+    "addresses": {
+      "lineOne": "The Shard, 32 London Bridge Street",
+      "lineTwo": "Floor 24",
+      "city": "London",
+      "postalCode": "SE1 9SG"
+    },
+    "financials": []
+  },
+  {
+    "name": "Quantum Data Labs Limited",
+    "providerId": "IE857392",
+    "addresses": {
+      "lineOne": "Digital Hub, Unit 5",
+      "lineTwo": "Thomas Street",
+      "city": "Dublin",
+      "postalCode": "D08 X8R3"
+    },
+    "financials": []
+  },
+  {
+    "name": "CyberGuard Systems Limited",
+    "providerId": "GB567890",
+    "addresses": {
+      "lineOne": "Cyber House, 100 Silicon Way",
+      "lineTwo": "Cambridge Science Park",
+      "city": "Cambridge",
+      "postalCode": "CB4 0GF"
+    },
+    "financials": []
+  },
+  {
+    "name": "SmartFactory AG",
+    "providerId": "DE901234",
+    "addresses": {
+      "lineOne": "Robert-Bosch-Straße 25",
+      "lineTwo": "Technologiepark",
+      "city": "Stuttgart",
+      "postalCode": "70839"
+    },
+    "financials": []
+  },
+  {
+    "name": "AeroSpace Dynamics SAS",
+    "providerId": "FR123789",
+    "addresses": {
+      "lineOne": "45 Rue de l'Aéroport",
+      "lineTwo": "Zone Industrielle",
+      "city": "Toulouse",
+      "postalCode": "31000"
+    },
+    "financials": []
+  },
+  {
+    "name": "RoboTech Innovations AB",
+    "providerId": "SE234567",
+    "addresses": {
+      "lineOne": "Innovation Hub 15",
+      "lineTwo": "Lindholmen Science Park",
+      "city": "Gothenburg",
+      "postalCode": "417 56"
+    },
+    "financials": []
+  },
+  {
+    "name": "QuantumLogic Systems GmbH",
+    "providerId": "DE345678",
+    "addresses": {
+      "lineOne": "Digitalhaus Berlin",
+      "lineTwo": "Mannerheimintie 113",
+      "city": "Berlin",
+      "postalCode": "10587"
+    },
+    "financials": []
+  },
+  {
+    "name": "FutureScale Analytics Ltd",
+    "providerId": "GB987654",
+    "addresses": {
+      "lineOne": "Future House, 27 Innovation Street",
+      "lineTwo": "Technology Quarter",
+      "city": "Edinburgh",
+      "postalCode": "EH1 1TF"
+    },
+    "financials": []
+  },
+  {
+    "name": "SmartGrid Solutions AB",
+    "providerId": "SE789012",
+    "addresses": {
+      "lineOne": "Smart Grid Center",
+      "lineTwo": "Kista Science City",
+      "city": "Stockholm",
+      "postalCode": "164 40"
+    },
+    "financials": []
+  },
+  {
+    "name": "CloudTech Solutions Oy",
+    "providerId": "FI890123",
+    "addresses": {
+      "lineOne": "Cloud Tower",
+      "lineTwo": "Itämerenkatu 5",
+      "city": "Espoo",
+      "postalCode": "02150"
+    },
+    "financials": []
+  },
+  {
+    "name": "InnovateAI Solutions Ltd",
+    "providerId": "GB901234",
+    "addresses": {
+      "lineOne": "AI Hub, 12 Innovation Walk",
+      "lineTwo": "Research Park",
+      "city": "Bristol",
+      "postalCode": "BS1 4TR"
+    },
+    "financials": []
+  },
+  {
+    "name": "DataCore Systems GmbH",
+    "providerId": "DE012345",
+    "addresses": {
+      "lineOne": "Datenstraße 15",
+      "lineTwo": "Digital Campus",
+      "city": "Hamburg",
+      "postalCode": "20457"
+    },
+    "financials": []
+  },
+  {
+    "name": "TechVision SAS",
+    "providerId": "FR123456",
+    "addresses": {
+      "lineOne": "15 Boulevard de l'Innovation",
+      "lineTwo": "Tech Park Sophia",
+      "city": "Nice",
+      "postalCode": "06560"
+    },
+    "financials": []
+  },
+  {
+    "name": "SmartLogic BV",
+    "providerId": "NL234567",
+    "addresses": {
+      "lineOne": "Logic Valley 28",
+      "lineTwo": "Science Park",
+      "city": "Eindhoven",
+      "postalCode": "5656 AE"
+    },
+    "financials": []
+  }
+]
